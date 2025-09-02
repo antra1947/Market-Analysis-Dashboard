@@ -1,4 +1,4 @@
-📊 RETAIL DEMAND INSIGHTS DASHBOARD (SQL & Power BI Project)
+📊 MARKET ANALYSIS DASHBOARD (SQL & Power BI Project)
 
 📌 Overview
 

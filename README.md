@@ -1,4 +1,4 @@
-📊 MARKET ANALYSIS DASHBOARD (SQL & Power BI Project)
+📊 Retail Demand Trend Analysis (SQL & Power BI Project)
 
 📌 Overview
 

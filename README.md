@@ -1,4 +1,4 @@
-📊 Retail Demand Trend Analysis (SQL & Power BI Project)
+📊  Market-Analysis-Dashboard(SQL & Power BI Project)
 
 📌 Overview
 
